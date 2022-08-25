@@ -1,0 +1,15 @@
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\bin\Debug\net5.0\Logica.deps.json
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\bin\Debug\net5.0\Logica.dll
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\bin\Debug\net5.0\Logica.pdb
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\obj\Debug\net5.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\obj\Debug\net5.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\obj\Debug\net5.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\obj\Debug\net5.0\Logica.AssemblyInfo.cs
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\obj\Debug\net5.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\obj\Debug\net5.0\Logica.dll
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\obj\Debug\net5.0\refint\Logica.dll
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\obj\Debug\net5.0\Logica.pdb
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\obj\Debug\net5.0\ref\Logica.dll
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\bin\Debug\net5.0\Conexion.dll
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\bin\Debug\net5.0\Conexion.pdb
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Logica\obj\Debug\net5.0\Logica.csproj.CopyComplete

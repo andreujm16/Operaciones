@@ -1,0 +1,12 @@
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\bin\Debug\net5.0\Conexion.deps.json
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\bin\Debug\net5.0\Conexion.dll
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\bin\Debug\net5.0\Conexion.pdb
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\obj\Debug\net5.0\Conexion.csproj.AssemblyReference.cache
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\obj\Debug\net5.0\Conexion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\obj\Debug\net5.0\Conexion.AssemblyInfoInputs.cache
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\obj\Debug\net5.0\Conexion.AssemblyInfo.cs
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\obj\Debug\net5.0\Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\obj\Debug\net5.0\Conexion.dll
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\obj\Debug\net5.0\refint\Conexion.dll
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\obj\Debug\net5.0\Conexion.pdb
+C:\Users\Jaime Andres Martine\source\repos\Operaciones\Conexion\obj\Debug\net5.0\ref\Conexion.dll
